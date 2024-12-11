@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnry&label=Profile%20views&color=0e75b6&style=flat" alt="amnry" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://amnry.github.io/](https://amnry.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://amnry.github.io/](https://amnry.github.io/)
+-->
 
 - 📫 How to reach me **amanarya1910@gmail.com**
 
